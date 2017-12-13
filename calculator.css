@@ -5,6 +5,7 @@
 .box {
 	background-color: #FF501B;
 	height: 350px;
+	width: 300px;
 	border-radius: 45px;
 	position:relative;
 	top: 80px;
