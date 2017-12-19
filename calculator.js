@@ -16,6 +16,5 @@ function v(val) {
 			d(eval(document.getElementById("d").value));
 		}
 		catch(err) {
-			d("Error")
-			}
+  			}
 		}
